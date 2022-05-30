@@ -47,7 +47,7 @@ global.linkgc = 'https://chat.whatsapp.com/HZ4c5yrsd0g8OfELZGySFZ'
 global.linkig = 'https://www.instagram.com/neer_j_  '
 global.linkyt = 'https://www.youtube.com/channel/UCLegt7MKqNBxJjIkE_QNPdA'
 global.linkfb = 'https://fb.watch/aYv0jAffAO'
-global.git = 'https://github.com/Neeraj-x0'
+global.git = 'https://github.com/aryaappu920'
 global.web1 = 'https://neeraj-x0.github.io/'
 global.url = 'https://chat.whatsapp.com/HZ4c5yrsd0g8OfELZGySFZ'
 
@@ -56,9 +56,9 @@ global.thumburl = process.env.IMAGE || 'https://i.pinimg.com/474x/de/bd/b2/debdb
 global.packname = process.env.PACKNAME ||'ᴍɪʟʟɪᴇ-ᴍᴅ'
 global.author = process.env.AUTHOR ||'ɴᴇᴇʀᴀᴊ-x0'
 global.name = 'Millie MULTI-DEVICE'
-global.session = process.env.SESSION_ID|| ''
+global.session = process.env.SESSION_ID|| 'Y0dicnQ0S0s='
 global.wm = process.env.WATERMARK|| 'ᴍɪʟʟɪᴇ-ᴍᴅ'
-global.owner_name = process.env.OWNER_NAME || 'Neeraj-x0'
+global.owner_name = process.env.OWNER_NAME || 'aryaappu920'
 global.logsmsg = convertToBool(process.env.LOGS)|| false
 
 function convertToBool(text, fault = 'true') {
