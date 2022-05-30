@@ -44,8 +44,8 @@ global.APIKeys = { // APIKey Here
  
 global.ucpn = ''
 global.linkgc = 'https://chat.whatsapp.com/HZ4c5yrsd0g8OfELZGySFZ'
-global.linkig = 'https://www.instagram.com/neer_j_  '
-global.linkyt = 'https://www.youtube.com/channel/UCLegt7MKqNBxJjIkE_QNPdA'
+global.linkig = 'https://instagram.com/___the_dark_king____?igshid=YmMyMTA2M2Y= '
+global.linkyt = 'https://www.youtube.com'
 global.linkfb = 'https://fb.watch/aYv0jAffAO'
 global.git = 'https://github.com/aryaappu920'
 global.web1 = 'https://neeraj-x0.github.io/'
@@ -53,12 +53,12 @@ global.url = 'https://chat.whatsapp.com/HZ4c5yrsd0g8OfELZGySFZ'
 
 //HEROKU  VARS
 global.thumburl = process.env.IMAGE || 'https://i.pinimg.com/474x/de/bd/b2/debdb24645169bf95eecd49f3144315f.jpg'
-global.packname = process.env.PACKNAME ||'ᴍɪʟʟɪᴇ-ᴍᴅ'
+global.packname = process.env.PACKNAME ||'ᴍʀ-ʙᴏᴛ-ᴍᴅ'
 global.author = process.env.AUTHOR ||'ɴᴇᴇʀᴀᴊ-x0'
 global.name = 'Millie MULTI-DEVICE'
 global.session = process.env.SESSION_ID|| 'Y0dicnQ0S0s='
-global.wm = process.env.WATERMARK|| 'ᴍɪʟʟɪᴇ-ᴍᴅ'
-global.owner_name = process.env.OWNER_NAME || 'aryaappu920'
+global.wm = process.env.WATERMARK|| 'ᴍʀ-ʙᴏᴛ-ᴍᴅ'
+global.owner_name = process.env.OWNER_NAME || 'ᴀᴅɪᴛʜ'
 global.logsmsg = convertToBool(process.env.LOGS)|| false
 
 function convertToBool(text, fault = 'true') {
@@ -71,7 +71,7 @@ function convertToBool(text, fault = 'true') {
 
 global.deslink = ''
 global.titlink = 'Folllow me on Instagram'
-global.bodlink = 'neer_j_'
+global.bodlink = '___the_dark_king____'
 global.wait = '_Please Wait_'
 global.eror = '_Something went wrong please try again later_'
 global.dtu = 'BOT HELP GROUP'
