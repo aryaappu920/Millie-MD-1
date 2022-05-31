@@ -47,7 +47,7 @@ global.linkgc = 'https://chat.whatsapp.com/HZ4c5yrsd0g8OfELZGySFZ'
 global.linkig = 'https://instagram.com/___the_dark_king____?igshid=YmMyMTA2M2Y= '
 global.linkyt = 'https://www.youtube.com'
 global.linkfb = 'https://fb.watch/aYv0jAffAO'
-global.git = 'https://github.com/aryaappu920'
+global.git = 'https://github.com'
 global.web1 = 'https://neeraj-x0.github.io/'
 global.url = 'https://chat.whatsapp.com/HZ4c5yrsd0g8OfELZGySFZ'
 
