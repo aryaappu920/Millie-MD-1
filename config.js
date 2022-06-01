@@ -56,7 +56,7 @@ global.thumburl = process.env.IMAGE || 'https://i.pinimg.com/474x/de/bd/b2/debdb
 global.packname = process.env.PACKNAME ||'ᴍʀ-ʙᴏᴛ-ᴍᴅ'
 global.author = process.env.AUTHOR ||'ɴᴇᴇʀᴀᴊ-x0'
 global.name = 'Millie MULTI-DEVICE'
-global.session = process.env.SESSION_ID|| 'Y0dicnQ0S0s='
+global.session = process.env.SESSION_ID|| 'R3dkR2JEczM='
 global.wm = process.env.WATERMARK|| 'ᴍʀ-ʙᴏᴛ-ᴍᴅ'
 global.owner_name = process.env.OWNER_NAME || 'ᴀᴅɪᴛʜ'
 global.logsmsg = convertToBool(process.env.LOGS)|| false
